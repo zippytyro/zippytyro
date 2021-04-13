@@ -5,7 +5,7 @@
 - 📫 How to reach me: shashwatverma888[@]gmail[.]com
 - 😄 Pronouns: He/His
 
-### I like stats, so there it is.
+### I like stats, so here it is.
 [![Shashwat's github stats](https://github-readme-stats.vercel.app/api?username=zippytyro&theme=midnight-purple&show_icons=true)](https://github.com/zippytyro?tab=repositories)
 [![Shashwat's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytyro&layout=compact)](https://github.com/zippytyro?tab=repositories)
 ------------------------------------------------
