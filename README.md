@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning Web dev & building indie products. ♥️
 - 🌱 I’m currently learning: Advance JS and Node
-- 📫 How to reach me: shashwatverma888[@]gmail[.]com
+- 📫 How to reach me: [My twitter](https://twitter.com/zippytyro)
 - 😄 Pronouns: He/His
 
 ### I like stats, so here it is.
