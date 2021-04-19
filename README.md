@@ -1,4 +1,7 @@
 ### Namaste! Shashwat here 🙏
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zippytyro&color=blueviolet&style=flat">
+</p>
 
 - 🔭 I’m currently learning Web dev & building indie products. ♥️
 - 🌱 I’m currently learning: Advance JS and Node
