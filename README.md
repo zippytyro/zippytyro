@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently learning Web dev & building indie products. ♥️
-- 🌱 I’m currently learning: 
+- 🌱 I’m currently learning: LLMs/Product engineering.
 - 📫 How to reach me: [My twitter](https://twitter.com/zippytyro)
 - 😄 Pronouns: He/Him
 
