@@ -26,4 +26,4 @@
 <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br>
 <h3>Website :yum: :</h3>
-<a href="https://zippytyro.github.io/">here!</a>
+<a href="https://shashwatv.com/">Visit here!</a>
