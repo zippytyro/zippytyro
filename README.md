@@ -6,7 +6,6 @@
 - 🔭 I’m currently learning Web dev & building indie products. ♥️
 - 🌱 I’m currently learning: LLMs/Product engineering.
 - 📫 How to reach me: [My twitter](https://twitter.com/zippytyro)
-- 😄 Pronouns: He/Him
 
 ### I like stats, so here it is.
 [![Shashwat's github stats](https://github-readme-stats.vercel.app/api?username=zippytyro&theme=midnight-purple&show_icons=true)](https://github.com/zippytyro?tab=repositories)
