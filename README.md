@@ -3,9 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=zippytyro&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently learning Web dev & building indie products. ♥️
+- 🔭 Currently interning as a marketing/product person at a Startup.
 - 🌱 I’m currently learning: LLMs/Product engineering.
-- 🛠️ Building my indie startup - [Crabo AI](https://craboai.com?ref=git)
 - 📫 How to reach me: [Twitter](https://twitter.com/zippytyro)
 
 ### I like stats, so here it is.
