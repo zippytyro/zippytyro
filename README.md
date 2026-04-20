@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=zippytyro&color=blueviolet&style=flat">
 </p>
 
-- 🔭 Founders office (technology projeccts) @ Startup.
+- 🔭 Founders office (technology projects) @ Startup.
 - 🌱 I’m currently learning: LLMs/Product engineering.
 - ✨ Technology and business practitioner 
 
