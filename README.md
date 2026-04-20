@@ -3,12 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=zippytyro&color=blueviolet&style=flat">
 </p>
 
-- 🔭 Currently interning as a marketing/product person at a Startup.
+- 🔭 Founders office (technology projeccts) @ Startup.
 - 🌱 I’m currently learning: LLMs/Product engineering.
-- 📫 How to reach me: [Twitter](https://twitter.com/zippytyro)
+- ✨ Technology and business practitioner 
 
-### I like stats, so here it is.
-[![Shashwat's github stats](https://github-readme-stats.vercel.app/api?username=zippytyro&theme=midnight-purple&show_icons=true)](https://github.com/zippytyro?tab=repositories)
 [![Shashwat's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytyro&layout=compact)](https://github.com/zippytyro?tab=repositories)
 ------------------------------------------------
 
@@ -19,8 +17,5 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br>
-<h3>Website :yum: :</h3>
-<a href="https://shashwatv.com/">Visit here!</a>
