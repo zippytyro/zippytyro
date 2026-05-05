@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning: LLMs/Product engineering.
 - ✨ Technology and business practitioner 
 
-[![Shashwat's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zippytyro&layout=compact)](https://github.com/zippytyro?tab=repositories)
 ------------------------------------------------
 
 ### Languages and Tools:
